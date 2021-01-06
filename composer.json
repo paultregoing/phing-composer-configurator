@@ -1,7 +1,7 @@
 {
     "name": "phing/phing-composer-configurator",
     "type": "composer-plugin",
-    "description": "PHing Is Not GNU make; it's a PHP project build system or build tool based on Apache Ant.",
+    "description": "PHing Is Not GNU make; it's a PHP project build system or build tool based on Apache Ant. Forked for POPP6/PHP8",
     "keywords": [
         "build",
         "tool",
